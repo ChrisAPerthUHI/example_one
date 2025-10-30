@@ -2,3 +2,7 @@ import library
 
 if x > 5:
 	print("hello, World")
+
+import another_thing
+
+Math.PI * 3.5f
